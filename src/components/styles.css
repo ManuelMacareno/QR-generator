@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+input {
+    margin-bottom: 1rem;
+}
+
+button {
+    margin-left: 1rem;
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    color: black
+}
